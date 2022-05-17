@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    padding: 15px;
+}
+
+body{
+background:url("../images/dulor.jpg");
+
+}
+
+main{
+    width: 1024px;
+    background: #efb810;
+    margin: 0 auto;
+}
+
+header{
+padding: 20px;
+
+}
+
+.logo img{
+    width: 10%;
+    float: left;
+
+}
+
+nav{
+    margin: top 81px;
+width: 30%;
+float: right;
+}
+
+nav ul{
+
+}
+
+nav ul li{
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+
+nav ul li a{
+text-decoration: none;
+background: #000000;
+color: #FFFFFF;
+padding: 5px;
+border-radius: 5px;
+}
+
+
+nav ul li a:hover{
+    background: #ffffff;
+}
+
+.carita{
+    width: 40%;
+    float: left;
+}
+
+.texto-lateral{
+    float: left;
+    width: 60%;
+}
+
+.formulario{
+    border: 2px solid #d30303;
+}
+
+.clear{
+    clear: both;
+}
+
